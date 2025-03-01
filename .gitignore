@@ -6,4 +6,14 @@ node_modules
 .output
 .env
 dist
+
+# Editor directories
 .DS_Store
+.hbuilderx
+.vscode/*
+!.vscode/extensions.json
+.idea
+.vscode
+.project
+.cache
+.local
